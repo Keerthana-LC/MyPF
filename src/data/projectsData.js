@@ -28,7 +28,7 @@ export const projectsData = [
         id: 3,
         projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
         projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
-        tags: ['React', 'CSS', 'Material Ui'],
+        tags: ['React', 'CSS' , 'HTML'],
         code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
         demo: 'https://weavers-loom.netlify.app/',
         image: handloom
