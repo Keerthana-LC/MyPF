@@ -10,7 +10,7 @@ import linefollower from '../assets/png/linefollower.jpg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'FarmoSynchro - Contract Farming Website',
+        projectName: 'Grownect',
         projectDesc: 'A full-stack website to connect farmers directly with buyers for assured contract farming.',
         tags: ['React', 'JavaScript', 'CSS', 'HTML'],
         //code: 'https://github.com/srinivaspavan73/Secure-Access',
