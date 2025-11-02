@@ -19,20 +19,20 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'CampusHub',
-        projectDesc: 'A web application that enables users to log in, browse and register for events, and collaborate on campus projects.',
-        tags: ['React', 'Node', 'Express', 'SQL', 'JavaScript'],
-        code: 'https://github.com/srinivaspavan73/Landlink',
-        demo: 'https://github.com/srinivaspavan73/Landlink',
+        projectName: 'Line Follower Robot',
+        projectDesc: 'Developed a Line Follower Robot that accurately tracks a path with a 95% success rate.',
+        tags: ['Arduino Uno', 'Embedded C++', 'IR Sensors', 'L293D Motor Driver'],
+        code: 'https://github.com/Keerthana-LC/Line-Follower-Robot/blob/main/Line%20Follower.txt',
+        demo: 'https://www.linkedin.com/posts/keerthana-lc-04aa44250_robotics-linefollower-certificate-activity-7311970786217508867-0Fd9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4XFzoBlT3cb5vFzo7Sb7xO5asvCdoLbgI',
         image: campushub
     },
     {
         id: 3,
-        projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
-        projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
-        tags: ['React', 'CSS' , 'HTML'],
-        code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
-        demo: 'https://weavers-loom.netlify.app/',
+        projectName: 'Traffic Monitoring System',
+        projectDesc: 'Designed a Smart Traffic Signal Monitoring System that reduced traffic congestion by 25% during peak hours.',
+        tags: ['Arduino Uno', 'IR Sensors' , 'Ultrasonic Sensors' , 'LEDs'],
+        code: 'https://github.com/Keerthana-LC/Traffic-Monitoring-System./blob/main/ultrasonic_led.ino',
+        demo: 'https://github.com/Keerthana-LC/Traffic-Monitoring-System./blob/main/traffic%20monitoring%20system.jpg',
         image: handloom
     }
 ]

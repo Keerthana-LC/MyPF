@@ -1,13 +1,11 @@
 export const contactsData = {
-    email: 'bitrasrinivaspavan@gmail.com',
-    phone: '+918555866173',
-    address: 'Chirala, Andhra Pradesh, India',
-    github: 'https://github.com/srinivaspavan73',
-    facebook: 'https://www.facebook.com/bitra.pavan.351',
-    linkedIn: 'https://www.linkedin.com/in/bitrapavankumar/',
-    twitter: 'https://twitter.com/srinivaspavan73',
-    instagram: 'https://www.instagram.com/srinivaspavan73/',
+    email: 'Keerthanalc4@gmail.com',
+    phone: '+917619429724',
+    address: 'Tiptur, Karnataka, India',
+    github: 'https://github.com/Keerthana-LC',
+    linkedIn: 'https://www.linkedin.com/in/keerthana-lc-04aa44250',
+    twitter: 'https://x.com/Keertha32432770',
     // medium: 'https://medium.com/@abusaid-bd',
     // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "Bitra"
+    devUsername: "Keerthana LC"
 }
