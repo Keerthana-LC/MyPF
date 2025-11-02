@@ -4,19 +4,19 @@
 // import face from '../assets/png/face.jpg'
 // import land from '../assets/png/land.jpg'
 import TMS from '../assets/png/TMS.jpg'
-import Votingapp from '../assets/png/Votingapp.png'
+import Farm from '../assets/png/Farm.png'
 import linefollower from '../assets/png/linefollower.jpg'
 
 export const projectsData = [
-   // {
-     //   id: 1,
-       // projectName: 'Voting App',
-        //projectDesc: 'A secure web-based platform for conducting college elections, allowing students to log in, view candidates, and cast their votes online.',
-        //tags: ['React', 'JavaScript', 'CSS', 'HTML'],
+    {
+        id: 1,
+        projectName: 'FarmoSynchro - Contract Farming Website',
+        projectDesc: 'A full-stack website to connect farmers directly with buyers for assured contract farming.',
+        tags: ['React', 'JavaScript', 'CSS', 'HTML'],
         //code: 'https://github.com/srinivaspavan73/Secure-Access',
-        //demo: 'https://github.com/srinivaspavan73/Secure-Access',
-        //image: Votingapp
-    //},
+       // demo: 'https://github.com/srinivaspavan73/Secure-Access',
+        image: Farm
+    },
     {
         id: 2,
         projectName: 'Line Follower Robot',
